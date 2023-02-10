@@ -1,0 +1,4 @@
+name: Practice
+version: '${version}'
+main: net.globe.app.App
+authors: [ Jassix ]
